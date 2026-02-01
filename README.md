@@ -1,0 +1,5 @@
+- Tokenizers: BPE and TikToken from OpenAI
+- Transformer blocks with Multi head Self Attention and Feed Forward networks
+- Text generation using greedy, top k, top p and beam methods
+- instruction tuned QWEN models
+- Exploring LLM RAG, LangChain, Hugging Face, VectorDB, Pinecone, Weaviate, Agentic AI
